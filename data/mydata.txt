@@ -4,7 +4,7 @@ Greene, Robert - 48 Laws of Power, The
 Greene, Robert - Mastery
 Greene, Robert - Art of Seduction, The
 Greene, Robert - 33 Strategies of War, The
-Martin, Robert C. - Agile Software Development 
+Martin, Robert C. - Agile Software Development
 Martin, Robert C. - Clean Code
 Martin, Robert C. - Clean Coder
 Martin, Robert C. - Clean Architecture
